@@ -12,3 +12,4 @@
 ## 已转换翻译源
 
  - source001 [https://www.engadget.com/rss.xml](https://www.engadget.com/rss.xml) -> [engadget_rss.xml](rss/engadget_rss.xml)
+ - source002 [https://www.ted.com/feeds/talks.rss](https://www.ted.com/feeds/talks.rss) -> [TED_rss.xml](rss/TED_rss.xml)
